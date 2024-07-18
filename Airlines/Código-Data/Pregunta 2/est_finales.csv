@@ -1,0 +1,16 @@
+;Aircraft_Manufacturer;Only_Operating_Airline_Count;Only_Published_Airline_Count;Published_and_Operating_Airline_Count;Total_airlines_count;Total_Landed_Weight;Average_Landed_Weight
+0;Boeing;0.0;0.0;72.0;72.0;267717854376;3718303533.0
+1;Airbus;0.0;0.0;50.0;50.0;110634794071;2212695881.42
+2;McDonnell Douglas;1.0;1.0;17.0;19.0;8534345767;449176093.0
+3;Embraer;6.0;4.0;6.0;16.0;13254039099;828377443.6875
+4;Bombardier;7.0;5.0;2.0;14.0;18221089085;1301506363.2142856
+5;DeHavilland;1.0;1.0;0.0;2.0;202601750;101300875.0
+6;Swearingen;0.0;0.0;2.0;2.0;2484460;1242230.0
+7;Cessna;0.0;0.0;1.0;1.0;4775350;4775350.0
+8;Beechcraft;0.0;0.0;1.0;1.0;30624280;30624280.0
+9;Shorts;0.0;0.0;1.0;1.0;37622000;37622000.0
+10;Piper;0.0;0.0;1.0;1.0;88500;88500.0
+11;Fairchild;0.0;0.0;1.0;1.0;20846000;20846000.0
+12;LearJet;0.0;0.0;1.0;1.0;428400;428400.0
+13;BAE-Avro;0.0;0.0;1.0;1.0;87500;87500.0
+14;Lockheed;0.0;0.0;1.0;1.0;3312000;3312000.0
