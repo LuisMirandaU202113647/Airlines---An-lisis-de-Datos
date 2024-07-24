@@ -21,7 +21,7 @@ Aplicar técnicas de análisis de datos como limpieza, estandarización, explora
 El presente dataset consiste en una lista de aterrizajes de aviones por regiones donde se indican datos del peso total desembarcado, la cantidad de vuelos del avión, el tipo de avión y las aerolíneas que los operan o publicitan.
 ![Dataset](Images/dataset.png)
 ## Herramientas utilizadas
-#### Lenguaje de Programación/Gestión de Bases de datos
+#### Lenguajes de Programación/Gestión de datos
 - Python
 - SQL
 #### Plataformas/Software
