@@ -1,10 +1,10 @@
 # Airlines Data Analysis
 ## Descripción del proyecto
-El presente proyecto consiste en el análisis de datos de un dataset obtenido mediante la página Kaggle cuyos datos son los de aterrizajes de aviones por regiones. 
+El presente proyecto consiste en el análisis de datos de un dataset obtenido mediante la página Kaggle cuya información se compone de datos de aterrizajes de aviones por regiones. 
 </br>
 ![Descripcion](Images/descripcion.png)
 ## Alcance del proyecto
-Este proyecto tiene el único propósito de poder utilizar y mejorar mis habilidades en el lenguaje de programación Python y en la herramienta de reportaje por medio de análisis de datos al igual que poder emplear mis habilidades en la comunicación escrita, presentación de información y capacidad de análisis. 
+Este proyecto tiene el propósito de poder utilizar y mejorar mis habilidades en el lenguaje de programación Python y en la herramienta de reportaje Power BI por medio de análisis de datos al igual que poder emplear mis habilidades en la comunicación escrita, presentación de información y capacidad de análisis. 
 </br>
 ![Alcance](Images/alcance.png)
 ## Objetivos
@@ -35,4 +35,4 @@ El presente dataset consiste en una lista de aterrizajes de aviones por regiones
 ![Herramientas](Images/herramientas.png)
 ## Resultados
 Mediante este proyecto logré profundizar en mi conocimiento sobre las librería Pandas y su uso en la obtención de estadísticas, agrupamiento de datos, visualización rápida y gestión de dataframes. También pude emplear las opciones de visualización de datos y estadísticas ofrecidas por las librerías Matplotlib y Seaborn.
-Además aprendí a realizar la transformación y gestión de tablas en power BI, crear métricas y columnas calculadas, gestionar el modelo de datos y generar dashboards dinámicos de la misma plataforma y mediante scripts en Python.
+Además aprendí a realizar la transformación y gestión de tablas en Power BI, crear métricas y columnas calculadas, gestionar el modelo de datos y generar dashboards dinámicos de la misma plataforma y mediante scripts en Python.
