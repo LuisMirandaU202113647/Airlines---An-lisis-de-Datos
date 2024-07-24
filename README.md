@@ -9,7 +9,7 @@ Este proyecto tiene el propósito de poder utilizar y mejorar mis habilidades en
 ![Alcance](Images/alcance.png)
 ## Objetivos
 #### General
-Aplicar técnicas de análisis de datos como limpieza, estandarización, exploración y visualización de datos y storytelling para la solución de problemas reales y resolución de preguntas de negocio.
+Aplicar técnicas de análisis de datos como limpieza, estandarización, exploración y visualización de datos y empleo de storytelling para la solución de problemas reales y resolución de preguntas de negocio.
 #### Específicos
 - Realizar exploración de datasets y examinar la calidad de los datos.
 - Ejecutar procesos de limpieza y estandarización de datos para su análisis.
