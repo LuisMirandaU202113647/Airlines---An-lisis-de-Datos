@@ -4,7 +4,7 @@ El presente proyecto consiste en el análisis de datos de un dataset obtenido me
 </br>
 ![Descripcion](Images/descripcion.png)
 ## Alcance del proyecto
-Este proyecto tiene el propósito de poder utilizar y mejorar mis habilidades en el lenguaje de programación Python y en la herramienta de reportaje Power BI por medio de análisis de datos al igual que poder emplear mis habilidades en la comunicación escrita, presentación de información y capacidad de análisis. 
+Este proyecto tiene el propósito de poder utilizar y mejorar mis habilidades en el lenguaje de programación Python y en la herramienta de reportaje Power BI por medio de análisis de datos. De igual forma emplear mis habilidades en la comunicación escrita, presentación de información y capacidad de análisis. 
 </br>
 ![Alcance](Images/alcance.png)
 ## Objetivos
