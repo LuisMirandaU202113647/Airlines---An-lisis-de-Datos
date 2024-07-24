@@ -2,7 +2,7 @@
 ## Descripción del proyecto
 El presente proyecto consiste en el análisis de datos de un dataset obtenido mediante la página Kaggle cuyos datos son los de aterrizajes de aviones por regiones. 
 </br>
-
+![Descripcion](Images/descripcion.png)
 ## Alcance del proyecto
 Este proyecto tiene el único propósito de poder utilizar y mejorar mis habilidades en el lenguaje de programación Python y en la herramienta de reportaje por medio de análisis de datos al igual que poder emplear mis habilidades en la comunicación escrita, presentación de información y capacidad de análisis. 
 </br>
