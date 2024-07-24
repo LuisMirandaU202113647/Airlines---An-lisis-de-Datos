@@ -35,4 +35,4 @@ El presente dataset consiste en una lista de aterrizajes de aviones por regiones
 ![Herramientas](Images/herramientas.png)
 ## Resultados
 Mediante este proyecto logré profundizar en mi conocimiento sobre las librería Pandas y su uso en la obtención de estadísticas, agrupamiento de datos, visualización rápida y gestión de dataframes. También pude emplear las opciones de visualización de datos y estadísticas ofrecidas por las librerías Matplotlib y Seaborn.
-Además aprendí a realizar la transformación y gestión de tablas en Power BI, crear métricas y columnas calculadas, gestionar el modelo de datos y generar dashboards dinámicos de la misma plataforma y mediante scripts en Python.
+Finalmente aprendí a realizar la transformación y gestión de tablas en Power BI, crear métricas y columnas calculadas, gestionar el modelo de datos y generar dashboards dinámicos proveídos por la misma plataforma y por scripts en Python.
